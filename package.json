@@ -2,7 +2,7 @@
   "name": "fakedb",
   "version": "1.0.0",
   "description": "testing fake Db",
-  "author": "albertloewe <albertclemvill@gmail.com>",
+  "author": "albertloewe",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
