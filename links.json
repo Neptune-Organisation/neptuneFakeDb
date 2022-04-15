@@ -1,27 +1,27 @@
 [
     {
-        "id" : "url0",
-        "url" : "http://111111111111111111111111111111111111111111111111111111111111.com/",
-        "text" : "111"
+        "id" : "linkUrl0",
+        "linkUrl" : "http://111111111111111111111111111111111111111111111111111111111111.com/",
+        "txt" : "111"
     },
     {
-        "id" : "url1",
-        "url" : "https://zombo.com/",
-        "text" : "zombo"
+        "id" : "linkUrl1",
+        "linkUrl" : "https://zombo.com/",
+        "txt" : "zombo"
     },
     {
-        "id" : "url2",
-        "url" : "https://pointerpointer.com/",
-        "text" : "pointer"
+        "id" : "linkUrl2",
+        "linkUrl" : "https://pointerpointer.com/",
+        "txt" : "pointer"
     },
     {
-        "id" : "url3",
-        "url" : "http://eelslap.com/",
-        "text" : "eelslap"
+        "id" : "linkUrl3",
+        "linkUrl" : "http://eelslap.com/",
+        "txt" : "eelslap"
     },
     {
-        "id" : "url4",
-        "url" : "https://isitchristmas.com/",
-        "text" : "isitchristmas"
+        "id" : "linkUrl4",
+        "linkUrl" : "https://isitchristmas.com/",
+        "txt" : "isitchristmas"
     }
 ]
