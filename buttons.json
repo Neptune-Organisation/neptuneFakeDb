@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "b0",
+        "btnClass" : "",
+        "type" : "send",
+        "buttonText" : "send 1"
+    },
+    {
+        "id" : "b1",
+        "btnClass" : "",
+        "type" : "send",
+        "buttonText" : "send 2"
+    },
+    {
+        "id" : "b2",
+        "btnClass" : "",
+        "type" : "send",
+        "buttonText" : "send 3"
+    },
+    {
+        "id" : "b3",
+        "btnClass" : "",
+        "type" : "send",
+        "buttonText" : "send 4"
+    },
+    {
+        "id" : "b4",
+        "btnClass" : "",
+        "type" : "send",
+        "buttonText" : "send 5"
+    }
+]
