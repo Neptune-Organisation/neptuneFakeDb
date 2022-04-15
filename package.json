@@ -1,6 +1,6 @@
 {
-  "name": "fakedb",
-  "version": "1.0.1",
+  "name": "neptunefakedb",
+  "version": "1.0.2",
   "description": "testing fake Db",
   "author": "albertloewe",
   "main": "index.js",
