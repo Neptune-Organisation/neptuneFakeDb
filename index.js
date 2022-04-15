@@ -9,4 +9,5 @@ const menu = require("./menu.json")
 const products = require("./products.json")
 const team = require("./team.json")
 const testData = require("./testData.json")
-console.log(testData[0])
+
+export {article, audioLibrary, contactForm, gallery, hero, impressum, list, menu, products, team, testData}
