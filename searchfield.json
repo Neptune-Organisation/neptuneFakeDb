@@ -1,0 +1,18 @@
+{
+    "inputData" : {
+        "containerClass" : "",
+        "htmlLabel" : "htmlLabel",
+        "inputLabel" : "inputLabel",
+        "labelClass" : "",
+        "inputType" : "",
+        "inputClass" : "",
+        "minLength" : 10,
+        "maxLength" : 20,
+        "required" : false
+    },
+    "sendButtonData" : {
+        "btnClass" : "",
+        "btnType" : "sendButton"
+    },
+    "searchIconClass" : ""
+}

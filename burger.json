@@ -1,0 +1,27 @@
+{
+    "navbarData" : {
+        "navbarClass" : "",
+        "navbars" : [
+            {
+               "linkUrl" : "",
+               "linktTxt" : "First Link",
+               "linkClass" : "" 
+            },
+            {
+               "linkUrl" : "",
+               "linktTxt" : "Second Link",
+               "linkClass" : "" 
+            },
+            {
+               "linkUrl" : "",
+               "linktTxt" : "Third Link",
+               "linkClass" : "" 
+            },
+            {
+               "linkUrl" : "",
+               "linktTxt" : "Fourth Link",
+               "linkClass" : "" 
+            }
+        ]
+    }
+}

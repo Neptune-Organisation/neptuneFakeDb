@@ -1,7 +1,11 @@
-[
-    "AiOutlineSearch",
-    "AiOutlinePlusCircle",
-    "AiOutlineMinusCircle",
-    "AiFillTwitterCircle",
-    "AiOutlineWhatsApp"
-]
+{
+    "iconsContainerClass" : "",
+    "iconsClass" : "",
+    "iconList" : [
+        "AiOutlineSearch",
+        "AiOutlinePlusCircle",
+        "AiOutlineMinusCircle",
+        "AiFillTwitterCircle",
+        "AiOutlineWhatsApp"
+    ]
+}

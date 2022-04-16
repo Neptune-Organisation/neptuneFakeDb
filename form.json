@@ -1,0 +1,10 @@
+[
+    {
+        "formTitle" : "Form Title",
+        "formTitleClass" : "",
+        "formFields" : ["fname", "lname", "email", "phone", "address", "message"],
+        "formClass" : "",
+        "txtAreaName" : "",
+        "txtAreaId" : ""
+    }
+]

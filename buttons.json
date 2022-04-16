@@ -2,31 +2,41 @@
     {
         "id" : "b0",
         "btnClass" : "",
-        "type" : "send",
-        "btnTxt" : "send 1"
+        "btnType" : "send",
+        "btnTxt" : "send 1",
+        "iconClass" : "",
+        "submitClass" : ""
     },
     {
         "id" : "b1",
         "btnClass" : "",
-        "type" : "send",
-        "btnTxt" : "send 2"
+        "btnType" : "send",
+        "btnTxt" : "send 2",
+        "iconClass" : "",
+        "submitClass" : ""
     },
     {
         "id" : "b2",
         "btnClass" : "",
-        "type" : "send",
-        "btnTxt" : "send 3"
+        "btnType" : "send",
+        "btnTxt" : "send 3",
+        "iconClass" : "",
+        "submitClass" : ""
     },
     {
         "id" : "b3",
         "btnClass" : "",
-        "type" : "send",
-        "btnTxt" : "send 4"
+        "btnType" : "send",
+        "btnTxt" : "send 4",
+        "iconClass" : "",
+        "submitClass" : ""
     },
     {
         "id" : "b4",
         "btnClass" : "",
-        "type" : "send",
-        "btnTxt" : "send 5"
+        "btnType" : "send",
+        "btnTxt" : "send 5",
+        "iconClass" : "",
+        "submitClass" : ""
     }
 ]

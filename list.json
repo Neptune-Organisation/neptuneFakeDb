@@ -1,1 +1,8 @@
-[ "old room", "grey sky", "perspective", "landscape", "snow", "photography", "brunch", "xbox", "bird" ]
+{
+    "listClass" : "",
+    "listContainerClass" : "",
+    "listTitle" : "List Title",
+    "listTitleClass" : "",
+    "listEntries" : [ "old room", "grey sky", "perspective", "landscape", "snow", "photography", "brunch", "xbox", "bird" ],
+    "listEntryClass" : ""
+}

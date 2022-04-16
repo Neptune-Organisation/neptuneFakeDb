@@ -1,0 +1,70 @@
+{
+    "nestedNavsContainerClass" : "",
+    "navLink" : "",
+    "childNavbars" : [
+        {
+            "id" : "nnv0",
+            "navbarClass" : "",
+            "childNavbars" : {
+                "linkTxt" : "Home",
+                "linkUrl" : "",
+                "linkClass" : ""
+            }
+            
+        },
+        {
+            "id" : "nnv0",
+            "navbarClass" : "",
+            "childNavbars" : {
+                "navbarClass" : "",
+                "childNavBars" : [
+                    {
+                        "linkTxt" : "Shirts",
+                        "linkUrl" : "",
+                        "linkClass" : ""
+                    },
+                    {
+                        "linkTxt" : "Pants",
+                        "linkUrl" : "",
+                        "linkClass" : ""
+                    },
+                    {
+                        "linkTxt" : "Shoes",
+                        "linkUrl" : "",
+                        "linkClass" : ""
+                    }
+                ]
+            }
+        },
+        {
+            "id" : "nnv0",
+            "navbarClass" : "",
+            "childNavbars" : {
+                "navbarClass" : "",
+                "childNavBars" : [
+                    {
+                        "linkTxt" : "About",
+                        "linkUrl" : "",
+                        "linkClass" : ""
+                    },
+                    {
+                        "linkTxt" : "Team",
+                        "linkUrl" : "",
+                        "linkClass" : ""
+                    }
+                ]
+            }
+            
+        },
+        {
+            "id" : "nnv0",
+            "navbarClass" : "",
+            "childNavbars" : {
+                "linkTxt" : "Impressum",
+                "linkUrl" : "",
+                "linkClass" : ""
+            }
+            
+        }
+    ]
+}
