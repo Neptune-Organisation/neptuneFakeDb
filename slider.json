@@ -1,8 +1,0 @@
-{
-    "minRange" : 0,
-    "maxRange" : 200,
-    "sendButton" : {
-        "btnClass" : "",
-        "btnType" : "sendButton"
-    }
-}
